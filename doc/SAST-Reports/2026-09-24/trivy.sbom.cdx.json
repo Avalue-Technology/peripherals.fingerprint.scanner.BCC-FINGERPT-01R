@@ -1,0 +1,42 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.7.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.7",
+  "serialNumber": "urn:uuid:d757941b-2c6e-4f22-b2ab-2502dc30dc8b",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-09-24T07:37:21+00:00",
+    "tools": {
+      "components": [
+        {
+          "type": "application",
+          "manufacturer": {
+            "name": "Aqua Security Software Ltd."
+          },
+          "group": "aquasecurity",
+          "name": "trivy",
+          "version": "0.74.0"
+        }
+      ]
+    },
+    "component": {
+      "bom-ref": "62de9c8b-77b4-4d3f-bf2c-160b743ec80c",
+      "type": "application",
+      "name": "D:/MyProjects/AS/peripherals.fingerprint.scanner.bcc-fingerpt-01r/FingerprintScanner",
+      "properties": [
+        {
+          "name": "aquasecurity:trivy:SchemaVersion",
+          "value": "2"
+        }
+      ]
+    }
+  },
+  "components": [],
+  "dependencies": [
+    {
+      "ref": "62de9c8b-77b4-4d3f-bf2c-160b743ec80c",
+      "dependsOn": []
+    }
+  ],
+  "vulnerabilities": []
+}

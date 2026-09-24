@@ -1,0 +1,10 @@
+{
+  "SchemaVersion": 2,
+  "Trivy": {
+    "Version": "0.74.0"
+  },
+  "ReportID": "01a0d259-23d2-73c1-9487-54c0321a30c9",
+  "CreatedAt": "2026-09-24T15:37:32.3702461+08:00",
+  "ArtifactName": "D:\\MyProjects\\Node.js\\RENITY-SAST\\electron-out\\RENITY-SAST-win32-x64\\Reports\\peripherals.fingerprint.scanner.bcc-fingerpt-01r_v1.0.0\\trivy.sbom.cdx.json",
+  "ArtifactType": "cyclonedx"
+}

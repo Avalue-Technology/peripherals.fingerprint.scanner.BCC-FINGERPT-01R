@@ -1,0 +1,27 @@
+{
+  "projectName": "peripherals.fingerprint.scanner.bcc-fingerpt-01r",
+  "projectVersion": "1.0.0",
+  "targetPath": "D:\\MyProjects\\AS\\peripherals.fingerprint.scanner.bcc-fingerpt-01r\\FingerprintScanner",
+  "scannedAt": "2026-09-24T07:37:32.634Z",
+  "fileCount": 865,
+  "selectedTools": [
+    "semgrep",
+    "gitleaks",
+    "trivy"
+  ],
+  "artifacts": {
+    "semgrep": {
+      "json": "semgrep.json",
+      "sarif": "semgrep.sarif"
+    },
+    "gitleaks": {
+      "json": "gitleaks.json",
+      "sarif": "gitleaks.sarif"
+    },
+    "trivy": {
+      "sbom": "trivy.sbom.cdx.json",
+      "json": "trivy.sbom.vuln.json",
+      "sarif": "trivy.sbom.vuln.sarif"
+    }
+  }
+}
